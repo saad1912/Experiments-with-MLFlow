@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/saad1/MLOPS_YT/Experiments-with-MLFlow/mlruns/2/4e75abf57016438c9c4af26f10b20698/artifacts
+end_time: 1740597434443
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 4e75abf57016438c9c4af26f10b20698
+run_name: rambunctious-bat-46
+run_uuid: 4e75abf57016438c9c4af26f10b20698
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740597434380
+status: 3
+tags: []
+user_id: saad1

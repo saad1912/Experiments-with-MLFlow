@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/saad1/MLOPS_YT/Experiments-with-MLFlow/mlruns/2/bd54f28d8eed44a99e625b6fe520ee24/artifacts
+end_time: 1740597434112
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: bd54f28d8eed44a99e625b6fe520ee24
+run_name: receptive-mole-493
+run_uuid: bd54f28d8eed44a99e625b6fe520ee24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740597434051
+status: 3
+tags: []
+user_id: saad1

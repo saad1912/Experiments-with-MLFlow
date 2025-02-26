@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/saad1/MLOPS_YT/Experiments-with-MLFlow/mlruns/2/ecee954cfd7549a5bcae236fd1f8ab89/artifacts
+end_time: 1740596995720
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+name: ''
+run_id: ecee954cfd7549a5bcae236fd1f8ab89
+run_uuid: ecee954cfd7549a5bcae236fd1f8ab89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740596990905
+status: 4
+tags: []
+user_id: saad1

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/saad1/MLOPS_YT/Experiments-with-MLFlow/mlruns/2/e1af435305ed4bdd876cb37aa83e0218/artifacts
+end_time: 1740597434245
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: e1af435305ed4bdd876cb37aa83e0218
+run_name: defiant-snail-287
+run_uuid: e1af435305ed4bdd876cb37aa83e0218
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740597434185
+status: 3
+tags: []
+user_id: saad1

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/saad1/MLOPS_YT/Experiments-with-MLFlow/mlruns/2/be1a888deb5743bca1a47a963fd6164a/artifacts
+end_time: 1740597434310
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: be1a888deb5743bca1a47a963fd6164a
+run_name: agreeable-gull-718
+run_uuid: be1a888deb5743bca1a47a963fd6164a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740597434250
+status: 3
+tags: []
+user_id: saad1

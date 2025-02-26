@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/saad1/MLOPS_YT/Experiments-with-MLFlow/mlruns/2/4ad3102d95c842e997fedd2981df22a2/artifacts
+end_time: 1740597434505
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 4ad3102d95c842e997fedd2981df22a2
+run_name: nervous-conch-181
+run_uuid: 4ad3102d95c842e997fedd2981df22a2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740597434448
+status: 3
+tags: []
+user_id: saad1

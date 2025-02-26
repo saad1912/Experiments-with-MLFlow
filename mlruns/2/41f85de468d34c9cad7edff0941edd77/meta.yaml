@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/saad1/MLOPS_YT/Experiments-with-MLFlow/mlruns/2/41f85de468d34c9cad7edff0941edd77/artifacts
+end_time: 1740597433920
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 41f85de468d34c9cad7edff0941edd77
+run_name: resilient-smelt-73
+run_uuid: 41f85de468d34c9cad7edff0941edd77
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740597433848
+status: 3
+tags: []
+user_id: saad1

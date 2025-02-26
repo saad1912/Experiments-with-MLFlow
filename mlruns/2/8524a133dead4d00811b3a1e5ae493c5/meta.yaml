@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/saad1/MLOPS_YT/Experiments-with-MLFlow/mlruns/2/8524a133dead4d00811b3a1e5ae493c5/artifacts
+end_time: 1740597434375
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 8524a133dead4d00811b3a1e5ae493c5
+run_name: treasured-fawn-414
+run_uuid: 8524a133dead4d00811b3a1e5ae493c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740597434315
+status: 3
+tags: []
+user_id: saad1

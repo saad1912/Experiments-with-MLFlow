@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/saad1/MLOPS_YT/Experiments-with-MLFlow/mlruns/2/57f20f7a76a34ddcbd5d7635e4aed73e/artifacts
+end_time: 1740597434571
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 57f20f7a76a34ddcbd5d7635e4aed73e
+run_name: chill-carp-636
+run_uuid: 57f20f7a76a34ddcbd5d7635e4aed73e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740597434510
+status: 3
+tags: []
+user_id: saad1

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/saad1/MLOPS_YT/Experiments-with-MLFlow/mlruns/2/7cf5732579d54d7889cbe800936b7fea/artifacts
+end_time: 1740597171965
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 7cf5732579d54d7889cbe800936b7fea
+run_name: adventurous-ox-996
+run_uuid: 7cf5732579d54d7889cbe800936b7fea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740597158113
+status: 3
+tags: []
+user_id: saad1

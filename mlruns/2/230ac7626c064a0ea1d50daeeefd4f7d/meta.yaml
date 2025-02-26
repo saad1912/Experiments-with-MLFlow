@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/saad1/MLOPS_YT/Experiments-with-MLFlow/mlruns/2/230ac7626c064a0ea1d50daeeefd4f7d/artifacts
+end_time: 1740597434046
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 230ac7626c064a0ea1d50daeeefd4f7d
+run_name: traveling-smelt-758
+run_uuid: 230ac7626c064a0ea1d50daeeefd4f7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740597433989
+status: 3
+tags: []
+user_id: saad1

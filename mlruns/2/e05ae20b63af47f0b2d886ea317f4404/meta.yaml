@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/saad1/MLOPS_YT/Experiments-with-MLFlow/mlruns/2/e05ae20b63af47f0b2d886ea317f4404/artifacts
+end_time: 1740597441826
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: e05ae20b63af47f0b2d886ea317f4404
+run_name: bald-crane-808
+run_uuid: e05ae20b63af47f0b2d886ea317f4404
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740597429064
+status: 3
+tags: []
+user_id: saad1
